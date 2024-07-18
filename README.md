@@ -37,10 +37,10 @@ If n=4                                          1
 31.	Write a program to print a minimum and maximum value sequency for all the numbers in a list.
 32.	Write a program to perform n Queens problem using backtracking.
 33.	Write a program to inset a number in a list.
-                34. Write a program to perform sum of subsets problem using backtracking.               
-               35. Write a program to perform graph coloring problem using backtracking.
-               36. Write a program to compute container loader Problem.
-               37. Write a program to generate the list of all factor for n value.
-               38.Write a program to perform Assignment problem using branch and bound.
-               39. Write a program for to perform liner search.
-               40.Write a program to find out Hamiltonian circuit Using backtracking method
+34. Write a program to perform sum of subsets problem using backtracking.               
+35. Write a program to perform graph coloring problem using backtracking.
+36. Write a program to compute container loader Problem.
+37. Write a program to generate the list of all factor for n value.
+38.Write a program to perform Assignment problem using branch and bound.
+39. Write a program for to perform liner search.
+40.Write a program to find out Hamiltonian circuit Using backtracking method
